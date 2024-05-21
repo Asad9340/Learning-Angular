@@ -12,4 +12,7 @@ export class AppComponent {
   title = 'AngularBasics';
   description =
     'Hello world AngularHello world AngularHello world AngularHello world AngularHello world AngularHello world AngularHello world AngularHello world AngularHello world Angular';
+  age = 23;
+  Name = 'Md Asadul Islam'
+  HomeTown='Sirajganj'
 }
